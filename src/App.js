@@ -22,7 +22,7 @@ const App = () => (
     <SpecialMenu />
     <Chef />
     <Intro />
-    {/* <Laurels /> */}
+    <Laurels />
     {/* <Gallery /> */}
     {/* <FindUs /> */}
     {/* <Footer />  */}
